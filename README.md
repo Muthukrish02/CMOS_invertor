@@ -1,3 +1,4 @@
+![Screenshot 2025-02-15 160121](https://github.com/user-attachments/assets/980e2212-55c0-43b4-b1d5-c594fce137da)
 
 ### **1️⃣ Schematic Design (`schematic/`)**
 - CMOS inverter circuit designed in **Cadence Virtuoso Schematic Editor**.
@@ -55,7 +56,8 @@ The `invertor_sim` folder contains **simulation results and setup files** for th
 ## **Screenshots**
 _Add screenshots of your schematic, layout, and simulation waveforms here._  
 Example:
-![Waveform Screenshot](docs/waveforms.png)
+
+![Screenshot 2025-02-15 160330](https://github.com/user-attachments/assets/6c46468b-66df-4bd7-933c-f31392ac2216)
 
 ---
 
