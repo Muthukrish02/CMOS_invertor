@@ -71,8 +71,6 @@ This project is open-source under the **MIT License**. You are free to use, modi
 
 ---
 
-### **📌 Uploading to GitHub**
-Once you've saved this README as `README.md`, follow these steps to upload your project:
 
-```sh
+
 
